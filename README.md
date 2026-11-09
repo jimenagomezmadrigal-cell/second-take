@@ -1,4 +1,4 @@
-# Second Take · 再来一条
+npx skills add flashfrogluo/second-take# Second Take · 再来一条
 
 > **AI 深度思考质检与重拍单生成** —— 把一段不满意的思考，重拍成更好的答案。
 
