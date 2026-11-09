@@ -1,1 +1,1 @@
-npx skills add flashfrogluo/second-take
+npx skills add flashfrogluo/second-take 
